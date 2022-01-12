@@ -1,0 +1,19 @@
+#blank{
+  height:100px
+}
+#calculatorBox{
+
+  background-color: antiquewhite;
+  padding: 20px;
+}
+input{
+  background-color: rgb(206, 206, 223);
+  width:80%;
+  height:50px
+}
+button{
+ margin:2%
+}
+#equals{
+  width:39%
+}
